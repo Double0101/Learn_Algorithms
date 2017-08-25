@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/double/Documents/workspace/Learn_Algorithms/chapter1/merge.h
+
+/home/double/Documents/workspace/Learn_Algorithms/chapter1/merge_sort.cxx
+stdio.h
+-
+merge.h
+/home/double/Documents/workspace/Learn_Algorithms/chapter1/merge.h
+

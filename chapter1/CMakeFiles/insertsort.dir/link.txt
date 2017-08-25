@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/insertsort.dir/insert_sort.cxx.o  -o insertsort 
