@@ -17,7 +17,7 @@ int find_max_with_mid (int *a, int low, int mid, int high)
 	int max_right = INT_MIN;
 	int right;
 	sum = 0;
-	for (int j = mid + 1; j < high; ++j)
+	for (int j = mid + 1; j <= high; ++j)
 	{
 		sum += a[j];
 		if (sum > max_right)

@@ -60,15 +60,15 @@ include CMakeFiles/findmain.dir/flags.make
 CMakeFiles/findmain.dir/findmain.cxx.o: CMakeFiles/findmain.dir/flags.make
 CMakeFiles/findmain.dir/findmain.cxx.o: findmain.cxx
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/findmain.dir/findmain.cxx.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/findmain.dir/findmain.cxx.o -c /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmain.cxx
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/findmain.dir/findmain.cxx.o -c /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmain.cxx
 
 CMakeFiles/findmain.dir/findmain.cxx.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/findmain.dir/findmain.cxx.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmain.cxx > CMakeFiles/findmain.dir/findmain.cxx.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmain.cxx > CMakeFiles/findmain.dir/findmain.cxx.i
 
 CMakeFiles/findmain.dir/findmain.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/findmain.dir/findmain.cxx.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmain.cxx -o CMakeFiles/findmain.dir/findmain.cxx.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmain.cxx -o CMakeFiles/findmain.dir/findmain.cxx.s
 
 CMakeFiles/findmain.dir/findmain.cxx.o.requires:
 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/findmain.dir/findmain.cxx.o  -o findmain libfindmax.a 
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/findmain.dir/findmain.cxx.o  -o findmain libfindmax.a 

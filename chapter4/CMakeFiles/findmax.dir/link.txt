@@ -1,2 +1,2 @@
-/usr/bin/ar qc libfindmax.a  CMakeFiles/findmax.dir/findmax.cxx.o
-/usr/bin/ranlib libfindmax.a
+/Library/Developer/CommandLineTools/usr/bin/ar qc libfindmax.a  CMakeFiles/findmax.dir/findmax.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libfindmax.a

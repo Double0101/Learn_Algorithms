@@ -60,15 +60,15 @@ include CMakeFiles/findmax.dir/flags.make
 CMakeFiles/findmax.dir/findmax.cxx.o: CMakeFiles/findmax.dir/flags.make
 CMakeFiles/findmax.dir/findmax.cxx.o: findmax.cxx
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/findmax.dir/findmax.cxx.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/findmax.dir/findmax.cxx.o -c /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmax.cxx
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/findmax.dir/findmax.cxx.o -c /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmax.cxx
 
 CMakeFiles/findmax.dir/findmax.cxx.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/findmax.dir/findmax.cxx.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmax.cxx > CMakeFiles/findmax.dir/findmax.cxx.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmax.cxx > CMakeFiles/findmax.dir/findmax.cxx.i
 
 CMakeFiles/findmax.dir/findmax.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/findmax.dir/findmax.cxx.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmax.cxx -o CMakeFiles/findmax.dir/findmax.cxx.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Double/Documents/workspace/Others/Learn_Algorithms/chapter4/findmax.cxx -o CMakeFiles/findmax.dir/findmax.cxx.s
 
 CMakeFiles/findmax.dir/findmax.cxx.o.requires:
 
