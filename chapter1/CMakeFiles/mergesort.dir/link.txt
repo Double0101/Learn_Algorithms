@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/mergesort.dir/merge_sort.cxx.o  -o mergesort libmerge.a 

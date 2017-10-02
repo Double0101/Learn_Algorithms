@@ -1,5 +1,0 @@
-/home/double/Documents/workspace/Learn_Algorithms/chapter1/CMakeFiles/merge.dir
-/home/double/Documents/workspace/Learn_Algorithms/chapter1/CMakeFiles/edit_cache.dir
-/home/double/Documents/workspace/Learn_Algorithms/chapter1/CMakeFiles/rebuild_cache.dir
-/home/double/Documents/workspace/Learn_Algorithms/chapter1/CMakeFiles/insertsort.dir
-/home/double/Documents/workspace/Learn_Algorithms/chapter1/CMakeFiles/mergesort.dir
